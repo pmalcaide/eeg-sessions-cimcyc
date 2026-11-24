@@ -44,4 +44,9 @@ Want to give a talk, propose a workshop, bring a problem to the group or suggest
 
 <!-- Elige una licencia y sustituye esta sección. Una opción habitual:
      slides y textos con CC BY 4.0, y código con MIT. -->
-[LICENSE TO BE DECIDED]
+## License
+
+- Slides and text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Code (notebooks): [MIT](LICENSE)
+
+Unless stated otherwise in a topic folder. Figures from published papers keep their original copyright.
