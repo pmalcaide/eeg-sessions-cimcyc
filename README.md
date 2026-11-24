@@ -15,7 +15,7 @@ Materials are organised by topic. Each topic folder has everything about it: the
 
 | Topic | What's inside | Sessions |
 |:--|:--|:--|
-| [Decoding (MVPA)](decoding/README.md) | Time-resolved decoding of EEG: slides, a Colab notebook and suggested readings | Workshop, [DATE] |
+| [Decoding (MVPA)](decoding/README.md) | Time-resolved decoding of EEG: slides, a Colab notebook and suggested readings | Workshop, 27th November 2026 |
 
 ## Session formats
 
@@ -37,7 +37,8 @@ Materials are organised by topic. Each topic folder has everything about it: the
 Want to give a talk, propose a workshop, bring a problem to the group or suggest a paper? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- Sustituye la línea siguiente por los nombres y el contacto de la organización -->
-**Organisers:** [NAMES] · [CONTACT EMAIL]
+**Organisers:** Pablo Moreno-Alcaide · pmalcaide@ugr.es Mattia Delmarco · mdelmarco@ugr.es
+
 
 ## License
 
