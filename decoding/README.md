@@ -29,7 +29,7 @@ The workshop notebook runs in Google Colab, so there is nothing to install. Clic
 
 - [Notebook file (.ipynb)](code/decoding_workshop.ipynb)
 - Tools: Python, [MNE-Python](https://mne.tools) and scikit-learn
-- Data: [where the data comes from, e.g. downloaded inside the notebook from a public dataset]
+- Data: Example of an easy time-series decoding pipeline using MNE. The data used were part of Ramírez-Haro et al. (2026) and are available online at https://openneuro.org/datasets/ds009134
 
 ## Suggested readings
 
@@ -44,13 +44,12 @@ The workshop notebook runs in Google Colab, so there is nothing to install. Clic
 
 **Tutorials**
 
-- MNE-Python: [Decoding (MVPA)](https://mne.tools/stable/auto_tutorials/machine-learning/50_decoding.html)
+- MNE-Python: Decoding (MVPA) (https://mne.tools/stable/auto_tutorials/machine-learning/50_decoding.html)
 
 <!-- Enlaza al DOI o a una versión en abierto; no subas los PDF de los artículos. -->
 
 ## Notes and questions
-
-[Optional: questions that came up in the sessions, answers, things to try next. Delete this section if you don't need it.]
+To be filled after the session.
 
 ---
 
