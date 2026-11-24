@@ -10,21 +10,22 @@
     y sube sus archivos con la fecha delante, por ejemplo slides/2027-03_talk.pdf
 -->
 
-[Two or three sentences about the topic: what decoding is and which questions it answers in EEG. For example: training a classifier on EEG epochs to ask *when* information about a condition is present in the signal, with time-resolved decoding and temporal generalization.]
+Decoding is a multivariate pattern analysis consisting of extracting information from the neural data (e.g. EEG decoding uses a model to predict something about a trial, such as which stimulus was shown, from the recorded EEG signal.)
+
 
 ## Sessions
 
 | Date | Session | Format | Presenter | Materials |
 |:--|:--|:--|:--|:--|
-| [DATE] | Introduction to time-resolved decoding | Workshop | [NAME] | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/github/NOMBRE/eeg-sessions/blob/main/decoding/code/decoding_workshop.ipynb) |
+| 27th November 26 | Introduction to time-resolved decoding | Workshop | Almudena Ramírez Haro | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing) |
 
-**Useful to know beforehand:** [e.g. basic Python, what an epoch is]
+**Useful to know beforehand:** Basic python is recommended but everyone is welcome!
 
 ## Code
 
 The workshop notebook runs in Google Colab, so there is nothing to install. Click the badge, then use **File → Save a copy in Drive** to keep your own editable copy.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NOMBRE/eeg-sessions/blob/main/decoding/code/decoding_workshop.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing)
 
 - [Notebook file (.ipynb)](code/decoding_workshop.ipynb)
 - Tools: Python, [MNE-Python](https://mne.tools) and scikit-learn
