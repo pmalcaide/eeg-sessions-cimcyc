@@ -19,7 +19,7 @@ Decoding is a multivariate pattern analysis consisting of extracting information
 |:--|:--|:--|:--|:--|
 | 26th November 2026 | Introduction to time-resolved decoding | Workshop | Almudena Ramírez Haro | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing) |
 
-**Useful to know beforehand:** Basic python is recommended but everyone is welcome!
+**Useful to know beforehand:** Basic Python is recommended, but everyone is welcome!
 
 ## Code
 
