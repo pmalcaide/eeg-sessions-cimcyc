@@ -17,7 +17,7 @@ Decoding is a multivariate pattern analysis consisting of extracting information
 
 | Date | Session | Format | Presenter | Materials |
 |:--|:--|:--|:--|:--|
-| 27th November 26 | Introduction to time-resolved decoding | Workshop | Almudena Ramírez Haro | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing) |
+| 26th November 2026 | Introduction to time-resolved decoding | Workshop | Almudena Ramírez Haro | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing) |
 
 **Useful to know beforehand:** Basic python is recommended but everyone is welcome!
 
@@ -27,7 +27,7 @@ The workshop notebook runs in Google Colab, so there is nothing to install. Clic
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing)
 
-- [Notebook file (.ipynb)](code/decoding_workshop.ipynb)
+- [Notebook file (.ipynb)](code/Decoding_session.ipynb)
 - Tools: Python, [MNE-Python](https://mne.tools) and scikit-learn
 - Data: Example of an easy time-series decoding pipeline using MNE. The data used were part of Ramírez-Haro et al. (2026) and are available online at https://openneuro.org/datasets/ds009134
 
