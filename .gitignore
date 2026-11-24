@@ -1,0 +1,28 @@
+# Keep EEG/MEG data out of the repository (share it via OSF, OpenNeuro, etc.)
+*.fif
+*.edf
+*.bdf
+*.set
+*.fdt
+*.vhdr
+*.vmrk
+*.eeg
+*.cnt
+*.xdf
+*.mat
+*.npy
+*.npz
+*.h5
+*.hdf5
+data/
+
+# System and notebook clutter
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+
+# Website build output (for when the repository becomes a website)
+_site/
+.jekyll-cache/
+Gemfile.lock
