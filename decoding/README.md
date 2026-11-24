@@ -49,8 +49,8 @@ The workshop notebook runs in Google Colab, so there is nothing to install. Clic
 <!-- Enlaza al DOI o a una versión en abierto; no subas los PDF de los artículos. -->
 
 ## Notes and questions
-
 To be filled after the session.
+
 ---
 
 [← All topics](../README.md)
