@@ -16,9 +16,9 @@
 
 | Date | Session | Format | Presenter | Materials |
 |:--|:--|:--|:--|:--|
-| [DATE] | Introduction to time-resolved decoding | Workshop | [NAME] | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/github/NOMBRE/eeg-sessions/blob/main/decoding/code/decoding_workshop.ipynb) |
+| 27th November 26 | Introduction to time-resolved decoding | Workshop | Almudena Ramírez Haro | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/github/NOMBRE/eeg-sessions/blob/main/decoding/code/decoding_workshop.ipynb) |
 
-**Useful to know beforehand:** [e.g. basic Python, what an epoch is]
+**Useful to know beforehand:** Basic python is recommended but everyone is welcome!
 
 ## Code
 
