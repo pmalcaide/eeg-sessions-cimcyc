@@ -25,7 +25,7 @@ Decoding is a multivariate pattern analysis consisting of extracting information
 
 The workshop notebook runs in Google Colab, so there is nothing to install. Click the badge, then use **File → Save a copy in Drive** to keep your own editable copy.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NOMBRE/eeg-sessions/blob/main/decoding/code/decoding_workshop.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing)
 
 - [Notebook file (.ipynb)](code/decoding_workshop.ipynb)
 - Tools: Python, [MNE-Python](https://mne.tools) and scikit-learn
