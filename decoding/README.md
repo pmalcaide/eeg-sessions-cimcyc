@@ -26,10 +26,11 @@ Decoding is a multivariate pattern analysis consisting of extracting information
 The workshop notebook runs in Google Colab, so there is nothing to install. Click the badge, then use **File → Save a copy in Drive** to keep your own editable copy.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing)
-
+- Shared data link: https://drive.google.com/drive/folders/1ymBFY3hiLdRxCTyACjPZ0XTD_PiqUo9x?usp=sharing
 - [Notebook file (.ipynb)](code/Decoding_session.ipynb)
 - Tools: Python, [MNE-Python](https://mne.tools) and scikit-learn
-- Data: Example of an easy time-series decoding pipeline using MNE. The data used were part of Ramírez-Haro et al. (2026) and are available online at https://openneuro.org/datasets/ds009134
+- Data: Example of an easy time-series decoding pipeline using MNE. The data used were part of Ramírez-Haro et al. (2026) and are available online at https://openneuro.org/datasets/ds009134.
+  
 
 ## Suggested readings
 
