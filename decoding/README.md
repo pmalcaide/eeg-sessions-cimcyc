@@ -17,19 +17,20 @@ Decoding is a multivariate pattern analysis consisting of extracting information
 
 | Date | Session | Format | Presenter | Materials |
 |:--|:--|:--|:--|:--|
-| 27th November 26 | Introduction to time-resolved decoding | Workshop | Almudena Ramírez Haro | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing) |
+| 26th November 2026 | Introduction to time-resolved decoding | Workshop | Almudena Ramírez Haro | [Slides](slides/decoding_slides.pdf) · [Notebook](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing) |
 
-**Useful to know beforehand:** Basic python is recommended but everyone is welcome!
+**Useful to know beforehand:** Basic Python is recommended, but everyone is welcome! There's no need of running the code during the session. It's ok if you just want to look only at the presentation.
 
 ## Code
 
-The workshop notebook runs in Google Colab, so there is nothing to install. Click the badge, then use **File → Save a copy in Drive** to keep your own editable copy.
+The workshop notebook runs in Google Colab, so there is nothing to install. Click the badge, then use **File → Save a copy in Drive** to keep your own editable copy. Once you mount the drive folder (third cell) you need to create a quick access of the data to the folder you mounted.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KKZ8uMyaxyHcRHa89319xu8AVkMSHBsH?usp=sharing)
-
-- [Notebook file (.ipynb)](code/decoding_workshop.ipynb)
+- Shared data link: https://drive.google.com/drive/folders/1ymBFY3hiLdRxCTyACjPZ0XTD_PiqUo9x?usp=sharing
+- [Notebook file (.ipynb)](code/Decoding_session.ipynb)
 - Tools: Python, [MNE-Python](https://mne.tools) and scikit-learn
-- Data: Example of an easy time-series decoding pipeline using MNE. The data used were part of Ramírez-Haro et al. (2026) and are available online at https://openneuro.org/datasets/ds009134
+- Data: Example of an easy time-series decoding pipeline using MNE. The data used were part of Ramírez-Haro et al. (2026) and are available online at https://openneuro.org/datasets/ds009134.
+  
 
 ## Suggested readings
 

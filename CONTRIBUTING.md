@@ -12,7 +12,7 @@ We are always looking for:
 - **Journal club papers:** something you'd like to discuss as a group
 
 <!-- Sustituye [LINK TO FORM] por el enlace del formulario -->
-**[Propose a session or topic](Mail to pmalcaide@ugr.es)**
+**[Propose a session or topic](mailto:pmalcaide@ugr.es)**
 
 ## Found a problem?
 
